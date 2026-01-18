@@ -1,0 +1,7 @@
+<resources>
+    <string-array name="type_array">
+        <item>Select</item>
+        <item>Income</item>
+        <item>Expense</item>
+    </string-array>
+</resources>
