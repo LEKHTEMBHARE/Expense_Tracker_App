@@ -61,5 +61,3 @@ Your support motivates me to build more awesome projects 🚀
 
 ---
 
-
-Bas bol dena 😎💪
